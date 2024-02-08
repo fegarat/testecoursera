@@ -1,0 +1,82 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "data",
+      "points": [
+        [
+          1239.9999999999998,
+          218.57142857142856
+        ],
+        [
+          1384.2857142857142,
+          242.85714285714283
+        ]
+      ],
+      "group_id": null,
+      "description": "09/12/2016",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          304.2857142857143,
+          348.57142857142856
+        ],
+        [
+          501.4285714285714,
+          371.4285714285714
+        ]
+      ],
+      "group_id": null,
+      "description": "67.006.775/0001-45",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          299.99999999999994,
+          578.5714285714286
+        ],
+        [
+          498.5714285714285,
+          599.9999999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "02.238.621/0001-33",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          968.5714285714284,
+          1435.7142857142856
+        ],
+        [
+          1095.7142857142856,
+          1459.9999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "40.000,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "160608-00015_P.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}

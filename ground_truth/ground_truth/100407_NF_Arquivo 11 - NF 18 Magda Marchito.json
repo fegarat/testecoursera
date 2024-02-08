@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          287.70689655172407,
+          422.0862068965517
+        ],
+        [
+          491.155172413793,
+          458.2931034482758
+        ]
+      ],
+      "group_id": null,
+      "description": "751.380.697-72",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1382.5344827586207,
+          1222.0862068965516
+        ],
+        [
+          1515.293103448276,
+          1258.2931034482758
+        ]
+      ],
+      "group_id": null,
+      "description": "13.000,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          1367.0172413793102,
+          225.5344827586206
+        ],
+        [
+          1518.7413793103449,
+          270.3620689655172
+        ]
+      ],
+      "group_id": null,
+      "description": "13/10/2011",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "100407_NF_Arquivo 11 - NF 18 Magda Marchito.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}

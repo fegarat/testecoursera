@@ -1,0 +1,100 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1280.8859649122808,
+          138.59649122807016
+        ],
+        [
+          1473.8684210526317,
+          184.21052631578945
+        ]
+      ],
+      "group_id": null,
+      "description": "165,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          1080.8859649122808,
+          371.92982456140345
+        ],
+        [
+          1580.8859649122808,
+          405.2631578947368
+        ]
+      ],
+      "group_id": null,
+      "description": "20 de março de 2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          1366.8508771929824,
+          1645.6140350877192
+        ],
+        [
+          1482.640350877193,
+          1670.175438596491
+        ]
+      ],
+      "group_id": null,
+      "description": "20/03/2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          914.2192982456141,
+          1510.5263157894735
+        ],
+        [
+          1030.0087719298247,
+          1535.0877192982455
+        ]
+      ],
+      "group_id": null,
+      "description": "20/03/2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1415.9736842105262,
+          1773.6842105263156
+        ],
+        [
+          1480.8859649122808,
+          1794.736842105263
+        ]
+      ],
+      "group_id": null,
+      "description": "165,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "160608-00034_P.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}

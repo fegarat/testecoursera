@@ -1,0 +1,136 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "data",
+      "points": [
+        [
+          1335.0106382978724,
+          615.7765957446809
+        ],
+        [
+          1439.2659574468087,
+          633.8617021276597
+        ]
+      ],
+      "group_id": null,
+      "description": "10/03/2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1388.4615384615383,
+          682.4807692307692
+        ],
+        [
+          1437.5,
+          700.75
+        ]
+      ],
+      "group_id": null,
+      "description": "75,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1384.6153846153845,
+          1018.0576923076923
+        ],
+        [
+          1435.576923076923,
+          1035.3653846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "75,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          203.84615384615384,
+          672.8653846153846
+        ],
+        [
+          393.2692307692308,
+          693.0576923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "02.238.621/0001-33",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          761.5384615384615,
+          1452.6730769230767
+        ],
+        [
+          880.7692307692307,
+          1471.903846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "10/03/2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          1225.9615384615383,
+          1669.980769230769
+        ],
+        [
+          1338.4615384615383,
+          1687.2884615384614
+        ]
+      ],
+      "group_id": null,
+      "description": "10/03/2017",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1284.6153846153845,
+          1694.0192307692307
+        ],
+        [
+          1340.3846153846152,
+          1712.2884615384614
+        ]
+      ],
+      "group_id": null,
+      "description": "75,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "160608-00032_P.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}

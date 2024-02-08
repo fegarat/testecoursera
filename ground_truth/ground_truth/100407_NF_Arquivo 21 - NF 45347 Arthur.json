@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          342.3227848101267,
+          372.03164556962037
+        ],
+        [
+          586.626582278481,
+          394.81645569620264
+        ]
+      ],
+      "group_id": null,
+      "description": "213.981.947-00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1208.1455696202534,
+          1506.2088607594937
+        ],
+        [
+          1351.1835443037976,
+          1535.3227848101267
+        ]
+      ],
+      "group_id": null,
+      "description": "7.933,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          182.82911392405072,
+          1932.7911392405065
+        ],
+        [
+          520.8037974683544,
+          1961.9050632911394
+        ]
+      ],
+      "group_id": null,
+      "description": "11 de Abril de 2012",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "100407_NF_Arquivo 21 - NF 45347 Arthur.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}

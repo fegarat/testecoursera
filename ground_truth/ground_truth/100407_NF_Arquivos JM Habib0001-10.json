@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "data",
+      "points": [
+        [
+          3004.870967741935,
+          428.66129032258067
+        ],
+        [
+          3479.064516129032,
+          535.1129032258065
+        ]
+      ],
+      "group_id": null,
+      "description": "27/12/2011",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          1156.483870967742,
+          1096.4032258064515
+        ],
+        [
+          2288.7419354838707,
+          1183.5
+        ]
+      ],
+      "group_id": null,
+      "description": "01.771.109/001-95",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          2859.7096774193546,
+          2618.983870967742
+        ],
+        [
+          3498.4193548387093,
+          2738.338709677419
+        ]
+      ],
+      "group_id": null,
+      "description": "50.789,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "100407_NF_Arquivos JM Habib0001-10.jpg",
+  "imageData": null,
+  "imageHeight": 4867,
+  "imageWidth": 3542
+}

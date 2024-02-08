@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          829.9285714285713,
+          753.1428571428576
+        ],
+        [
+          1340.6428571428569,
+          824.5714285714289
+        ]
+      ],
+      "group_id": null,
+      "description": "493.750.167-49",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          2658.5,
+          3174.5714285714284
+        ],
+        [
+          2976.3571428571427,
+          3242.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "description": "1.250,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "data",
+      "points": [
+        [
+          447.7857142857142,
+          3999.5714285714284
+        ],
+        [
+          1129.9285714285716,
+          4103.142857142858
+        ]
+      ],
+      "group_id": null,
+      "description": "10 de Maio de 2012",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "100407_NF_Arquivo 31- NF 46322 - Regina.jpg",
+  "imageData": null,
+  "imageHeight": 4867,
+  "imageWidth": 3542
+}

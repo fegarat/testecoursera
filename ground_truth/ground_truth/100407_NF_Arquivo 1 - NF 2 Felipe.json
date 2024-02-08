@@ -1,0 +1,82 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "data",
+      "points": [
+        [
+          1183.2961165048546,
+          270.873786407767
+        ],
+        [
+          1308.5388349514565,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cnpj",
+      "points": [
+        [
+          577.4708737864078,
+          193.20388349514562
+        ],
+        [
+          750.2864077669904,
+          222.33009708737865
+        ]
+      ],
+      "group_id": null,
+      "description": "111.432.087/06",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1319.2184466019419,
+          1642.7184466019417
+        ],
+        [
+          1431.8398058252428,
+          1682.5242718446602
+        ]
+      ],
+      "group_id": null,
+      "description": "15.000,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "moeda",
+      "points": [
+        [
+          1323.101941747573,
+          1548.5436893203882
+        ],
+        [
+          1434.7524271844661,
+          1582.5242718446602
+        ]
+      ],
+      "group_id": null,
+      "description": "15.000,00",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "100407_NF_Arquivo 1 - NF 2 Felipe.jpg",
+  "imageData": null,
+  "imageHeight": 2339,
+  "imageWidth": 1653
+}
